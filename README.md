@@ -43,37 +43,6 @@ A remittance and currency conversion platform designed to simplify international
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
-* CSS Modules
-
-### Backend
-
-* Node.js
-* Express
-* Supabase
-* Firebase
-
-### Tools
-
-* Git
-* GitHub
-* Figma
-* Postman
-* Vercel
-* VS Code
-
----
-
 ## 🌱 Currently Learning
 
 * Advanced Next.js
